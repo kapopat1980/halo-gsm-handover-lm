@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HALO: Handover-Anchored Location Optimisation for GSM — simulator and results"
+version: 1.0.0
+date-released: 2026-11-07
+license: MIT
+authors:
+  - family-names: Popat
+    given-names: Kalpesh
+    orcid: "https://orcid.org/0000-0002-3818-3717"
+    affiliation: "Faculty of Computer Applications, Marwadi University, Rajkot, India"
+    email: kapopat@gmail.com
+  - family-names: Meva
+    given-names: Divyakant
+    orcid: "https://orcid.org/0000-0001-8804-7337"
+    affiliation: "Faculty of Computer Applications, Marwadi University, Rajkot, India"
+  - family-names: Molia
+    given-names: Hardik
+    orcid: "https://orcid.org/0000-0002-1962-7255"
+    affiliation: "Government Engineering College, Bhavnagar, India"
+keywords:
+  - GSM
+  - handover
+  - location management
+  - paging
+  - simulation
